@@ -1,0 +1,12 @@
+#display {
+  /* height: 100vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(133, 205, 81);
+}
+
+#input-box {
+  display: flex;
+  font-size: 55px;
+}
